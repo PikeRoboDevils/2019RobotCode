@@ -1,0 +1,19 @@
+# Created by https://www.gitignore.io/api/labview
+# Edit at https://www.gitignore.io/?templates=labview
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+
+# Metadata
+*.aliases
+*.lvlps
+.cache/
+
+Builds/
+# End of https://www.gitignore.io/api/labview
